@@ -1,8 +1,53 @@
-# React + Vite
+# 🛍️ Carrinho de Compras (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Interface do projeto **Carrinho de Compras**, desenvolvida com **React + Vite + TailwindCSS**.  
+Permite visualizar, adicionar e remover produtos no carrinho de forma simples e responsiva.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Preview 🖼️
+
+![Preview do projeto](./public/preview.png)
+
+---
+
+## Deploy 🔗
+
+🌐 [Acesse o projeto online](https://carrinho-de-compras-sepia.vercel.app)
+
+---
+
+## Tecnologias 🛠
+
+- React  
+- Vite  
+- TailwindCSS  
+- localStorage  
+
+---
+
+## Funcionalidades ⚙️
+
+- ➕ Adicionar itens ao carrinho  
+- ➖ Remover itens do carrinho  
+- ✅ Marcar/desmarcar produtos selecionados  
+- 📊 Exibir total atualizado em tempo real  
+- 📱 Design responsivo (desktop e mobile)  
+
+---
+
+## 🚀 Como Rodar Localmente
+
+```bash
+# Clone o repositório
+git clone https://github.com/nandosabino/carrinho-de-compras.git
+
+cd carrinho-de-compras
+
+# Instale dependências
+npm install
+
+# Rode em modo de desenvolvimento
+npm run dev
+```
+Acesse em http://localhost:5173
