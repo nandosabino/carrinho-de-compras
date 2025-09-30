@@ -11,12 +11,6 @@ Permite visualizar, adicionar e remover produtos no carrinho de forma simples e 
 
 ---
 
-## Deploy 🔗
-
-🌐 [Acesse o projeto online](https://carrinho-de-compras-sepia.vercel.app)
-
----
-
 ## Tecnologias 🛠
 
 - React  
