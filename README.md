@@ -11,6 +11,12 @@ Permite visualizar, adicionar e remover produtos no carrinho de forma simples e 
 
 ---
 
+## 🔗 Deploy
+
+🌐 [Acesse o projeto online](https://nandosabino.github.io/carrinho-de-compras)
+
+---
+
 ## Tecnologias 🛠
 
 - React  
