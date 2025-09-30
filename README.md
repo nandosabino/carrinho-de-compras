@@ -7,7 +7,7 @@ Permite visualizar, adicionar e remover produtos no carrinho de forma simples e 
 
 ## Preview 🖼️
 
-![Preview do projeto](./public/preview.png)
+![Preview do projeto](public/Preview.png)
 
 ---
 
